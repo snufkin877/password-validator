@@ -1,0 +1,15 @@
+.validations-feedback-container {
+	width: 470px;
+	padding: 5px;
+	margin: 0 auto;
+	margin-top: 20px;
+
+	.feedback-string {
+			color: #fc0000;
+			margin-bottom: 10px;
+	}
+
+	.valid-string {
+			display: none;
+	}
+}
